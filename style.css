@@ -1,0 +1,138 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Josefin Sans', sans-serif;
+
+}
+section{
+    height: 1067px;;
+    width: 1280px;
+    margin: auto;
+    overflow: hidden;
+    
+}
+.name-hilight{
+    color: tomato;
+    font-weight: 700;
+    font-size: 30px;
+    
+}
+.top-text-section{
+    margin-top: 110px;
+}
+.top-text-section a{
+    background-color: tomato;
+    padding:10px 20px 6px 20px ;
+    border-radius: 3px;
+    text-decoration: none;
+    color: rgb(243, 236, 236);
+    
+}
+.half-width {
+    width: 40%;
+    padding: 2%;
+    float: left;
+}
+.half-width img {
+    margin:0px 0px 0px 0px;
+    width: 100%;
+
+}
+.img-div {
+    width: 500px;
+    margin-left: 100px;
+}
+.top-section{
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+
+}
+.top-content{
+    padding: 274px 60px 60px 60px; 
+}
+.bio-section{
+    background-image: url(images/biography-bg.png);
+    
+}
+.bio-text-section{
+    margin: 200px 0px 0px 5px;
+}
+.bio-text-section a{
+    background-color: tomato;
+    padding:10px 20px 6px 20px ;
+    border-radius: 3px;
+    text-decoration: none;
+    color: rgb(243, 236, 236);
+    
+}
+.bio-content{
+    padding: 274px 0px 0px 0px;
+}
+.work-section{
+    background-image: url(images/latest-work-bg.png);
+    background-size: 100%;
+    height: 650px;
+    
+}
+.work-section h1{
+    text-align: center;
+    font-size: 50px;
+    padding: 70px 70px 30px 70px;
+}
+.latest-work-image{
+    width: 30%;
+    float: left;
+    padding: 1%
+    
+}
+.latest-work-image img{
+    width: 100%;
+   
+}
+.footer-section{
+    background-image: url(images/footer-bg.png);
+    background-size: 100%;
+    text-align: center;
+    height: 740px;
+}
+.footer-section h1{
+    font-size: 50px;
+}
+.contact{
+    background-color: rgb(255, 104, 78);
+    width: 650px;
+    height: 140px;
+    border-radius: 10px;
+    margin: 60px 0px 0px 300px;
+    line-height: 45px;
+    padding: 10px;
+    color: rgb(230, 222, 222)
+}
+.big-font{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 0px;
+}
+.hobbies{
+    height: 850px;
+    
+}
+.big-hobbies-font{
+    font-size: 50px;
+    text-align: center;
+
+}
+
+.hobbies-item {
+    width: 40%;
+    height: 200px;
+    text-align: justify;
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 47px 0px 0px 60px;   
+    float: left;
+    box-shadow: 20px 20px 20px grey;
+    border-bottom:6px solid rgb(55, 148, 211);
+    border-right:6px solid rgb(55, 148, 211);
+    border-radius: 10px 100px 5px 100px;
+}
